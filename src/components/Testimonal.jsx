@@ -32,7 +32,7 @@ const Testimonal = () => {
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"
                 />
                 <span className="flex-grow flex flex-col pl-4">
-                  <span className="title-font font-medium text-(--secondary-color)">
+                  <span className="font-medium text-(--secondary-color)">
                     Holden Caulfield
                   </span>
                   <span className="text-(--text-color) text-sm">

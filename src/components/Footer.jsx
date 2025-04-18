@@ -15,7 +15,7 @@ const Footer = () => {
           <span>J</span>
           ames
         </a>
-        <p className="text-sm text-(--text-color) sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-(--text-color) sm:py-2 sm:mt-0 mt-4">
+        <p className="text-sm text-(--text-color) sm:ml-4 sm:pl-4 sm:py-2 sm:mt-0 mt-4">
           © {new Date().getFullYear()} U-GINE MEDIA —
           <a
             href="https://uginemedia.com"
